@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Created By Premium Looters (Root)
+# Created By Premium Looters AND nOW TEAM DWX (D3VIL)
 # Tampering with this file will cause execution failure
 import zlib as _z
 import base64 as _b
